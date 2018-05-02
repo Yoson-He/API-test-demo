@@ -1,0 +1,13 @@
+('c:\\users\\administrator\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\xlrd-1.0.0-py3.6.egg',
+ None,
+ {'*.py', '*.so', '*.pyc', '*.pyo', '*.pyd', 'EGG-INFO'},
+ 'DATA',
+ [('xlrd\\examples\\namesdemo.xls',
+   'c:\\users\\administrator\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\xlrd-1.0.0-py3.6.egg\\xlrd\\examples\\namesdemo.xls',
+   'DATA'),
+  ('xlrd\\doc\\compdoc.html',
+   'c:\\users\\administrator\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\xlrd-1.0.0-py3.6.egg\\xlrd\\doc\\compdoc.html',
+   'DATA'),
+  ('xlrd\\doc\\xlrd.html',
+   'c:\\users\\administrator\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\xlrd-1.0.0-py3.6.egg\\xlrd\\doc\\xlrd.html',
+   'DATA')])

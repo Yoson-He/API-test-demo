@@ -1,0 +1,5 @@
+('E:\\接口测试\\build\\API_Test\\chardet-3.0.4-py3.6.egg',
+ None,
+ {'*.py', '*.so', '*.pyc', '*.pyo', '*.pyd', 'EGG-INFO'},
+ 'DATA',
+ [])
